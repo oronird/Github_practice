@@ -1,7 +1,12 @@
 Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
+<<<<<<< HEAD
 AeDneFan commodo ligula eget dolor.
 AenQQQeaFn massa Giannis_Antetokounmpo.
+=======
+ADenFeGan commodo ligula eget dolor.
+AQeGnFeDSan massa Giannis_Antetokounmpo.
+>>>>>>> d9886ff509c20723a53f01fd9e465780a553f2dd
 Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
